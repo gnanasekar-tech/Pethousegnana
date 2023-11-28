@@ -4,3 +4,8 @@ part colour: navy blue
 material using: pp 80% + glassfibre 20%
 problems: warpage
 time taken to print: 10 to 12 hours
+temperature: z1-95, z2-150, z3-172, z4-153,z5-124
+melting temperature: 170 to 175
+dryer temperature: 70°c
+total layers: 143
+per layer printing time: 2 to 2.10min 
